@@ -1,4 +1,4 @@
-🚀 Fake Review Detector
+`🚀 Fake Review Detector
 
 A simple Machine Learning project that detects whether a product review is Fake or Genuine using Natural Language Processing (NLP).
 
